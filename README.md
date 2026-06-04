@@ -94,3 +94,25 @@ The objective of this project is to design a reliable AI software generation sys
 - reliability
 - deterministic generation
 - execution awareness
+
+---
+
+# Future Improvements
+
+- Full runtime integration
+- Live schema execution
+- Incremental regeneration
+- Visual application builder
+- Advanced conflict resolution
+- Deployment pipeline
+
+---
+
+# Current Focus
+
+The current implementation focuses on:
+- reliability-first architecture
+- deterministic generation
+- validation pipelines
+- repair mechanisms
+- execution-aware schema generation
